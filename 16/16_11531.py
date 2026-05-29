@@ -1,3 +1,8 @@
+import sys
+
+sys.setrecursionlimit(10**10)
+
+
 from functools import *
 
 @cache
